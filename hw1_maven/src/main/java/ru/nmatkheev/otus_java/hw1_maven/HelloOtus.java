@@ -6,7 +6,7 @@ import com.google.common.collect.Lists;
 import java.util.List;
 import java.util.Map;
 
-public class GuavaUsage {
+public class HelloOtus {
     public static void main(String[] args) {
         Map items = ImmutableMap.of("coin", 3, "glass", 4, "pencil", 1);
 

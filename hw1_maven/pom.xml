@@ -34,7 +34,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>ru.nmatkheev.otus_java.hw1_maven.GuavaUsage</mainClass>
+                            <mainClass>ru.nmatkheev.otus_java.hw1_maven.HelloOtus</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
