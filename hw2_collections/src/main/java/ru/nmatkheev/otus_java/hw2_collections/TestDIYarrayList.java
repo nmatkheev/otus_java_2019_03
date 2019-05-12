@@ -25,13 +25,19 @@ public class TestDIYarrayList {
         Comparator<Integer> cmp = new MockComparator();
 
         List<Integer> ls1 = new DIYarrayList<>();
+        System.out.println(String.format("Created list: %s", ls1));
+
         List<Integer> dst = new DIYarrayList<>(25);
 
         Integer[] addVal = getRandom(25, 1, 100);
 
         DIYarrayList.addAll(ls1, addVal);
+        System.out.println(String.format("Added all: %s", ls1));
         DIYarrayList.sort(ls1, cmp);
+        System.out.println(String.format("Sorted: %s", ls1.toString()));
+
         DIYarrayList.copy(dst, ls1);
+        System.out.println(String.format("Copied: %s", dst.toString()));
 
     }
 }

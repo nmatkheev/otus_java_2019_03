@@ -111,6 +111,15 @@ public class DIYarrayList<T> implements List<T> {
     }
 
     @Override
+    public String toString() {
+        StringBuilder out = new StringBuilder();
+        for (int i=0; i<size; i++) {
+            out.append(String.format("%s, ", elementData[i]));
+        }
+        return "[" + out.toString() + String.format("], size=%d", size);
+    }
+
+    @Override
     public boolean add(T t) {
         grow(1);
         this.elementData[size++] = t;
