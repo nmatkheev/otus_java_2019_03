@@ -24,7 +24,8 @@ public class TestDIYarrayList {
     public static void main(String[] args) {
         Comparator<Integer> cmp = new MockComparator();
 
-        List<Integer> ls1 = new DIYarrayList<>();
+        List<Integer> ls1 = new DIYarrayList<>(2);
+
         System.out.println(String.format("Created list: %s", ls1));
 
         List<Integer> dst = new DIYarrayList<>(25);

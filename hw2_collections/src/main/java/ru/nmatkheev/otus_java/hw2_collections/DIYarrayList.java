@@ -18,7 +18,6 @@ public class DIYarrayList<T> implements List<T> {
     public DIYarrayList(int initCapacity) {
         if (initCapacity > 0) {
             this.elementData = new Object[initCapacity];
-            this.size = initCapacity;
         }
         else if (initCapacity == 0)
             this.elementData = EMPTY_ELEMENTDATA;
@@ -201,5 +200,63 @@ public class DIYarrayList<T> implements List<T> {
 
     public Spliterator<T> spliterator() {
         throw new UnsupportedOperationException();
+    }
+
+    private class ListItr extends AbstractList.Itr implements ListIterator<E> {
+        ListItr(int index) {
+            cursor = index;
+        }
+
+        public boolean hasPrevious() {
+            return cursor != 0;
+        }
+
+        public E previous() {
+            checkForComodification();
+            try {
+                int i = cursor - 1;
+                E previous = get(i);
+                lastRet = cursor = i;
+                return previous;
+            } catch (IndexOutOfBoundsException e) {
+                checkForComodification();
+                throw new NoSuchElementException();
+            }
+        }
+
+        public int nextIndex() {
+            return cursor;
+        }
+
+        public int previousIndex() {
+            return cursor-1;
+        }
+
+        public void set(E e) {
+            if (lastRet < 0)
+                throw new IllegalStateException();
+            checkForComodification();
+
+            try {
+                AbstractList.this.set(lastRet, e);
+                expectedModCount = modCount;
+            } catch (IndexOutOfBoundsException ex) {
+                throw new ConcurrentModificationException();
+            }
+        }
+
+        public void add(E e) {
+            checkForComodification();
+
+            try {
+                int i = cursor;
+                AbstractList.this.add(i, e);
+                lastRet = -1;
+                cursor = i + 1;
+                expectedModCount = modCount;
+            } catch (IndexOutOfBoundsException ex) {
+                throw new ConcurrentModificationException();
+            }
+        }
     }
 }
