@@ -11,6 +11,7 @@
 
     <modules>
         <module>hw1_maven</module>
+        <module>hw3_gc_comparison</module>
     </modules>
 
     <properties>
