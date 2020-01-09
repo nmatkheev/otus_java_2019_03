@@ -11,6 +11,8 @@
 
     <modules>
         <module>hw1_maven</module>
+        <module>hw2_collections</module>
+        <module>hw3_testing</module>
     </modules>
 
     <properties>
