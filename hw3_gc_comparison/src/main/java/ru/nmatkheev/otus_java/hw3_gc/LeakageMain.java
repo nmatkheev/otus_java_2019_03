@@ -43,10 +43,10 @@ public class LeakageMain {
                     String gcAction = info.getGcAction();
                     String gcCause = info.getGcCause();
 
-                    long startTime = info.getGcInfo().getStartTime();
+//                    long startTime = info.getGcInfo().getStartTime();
                     long duration = info.getGcInfo().getDuration();
 
-                    System.out.println("Start:" + startTime + " Name:" + gcName + ", Action:" + gcAction + ", gcCause:" + gcCause + "(" + duration + " ms)");
+                    System.out.println(gcName + ", Action: " + gcAction + ", gcCause:" + gcCause + " -> " + duration + " ms");
                 }
             };
             emitter.addNotificationListener(listener, null, null);
