@@ -9,5 +9,6 @@ parameters:
    -XX:+UseG1GC
 ```  
 
-[g1_graph]: G1.png "G1 VisualVM"
+![g1_graph](G1.png)
+
  
