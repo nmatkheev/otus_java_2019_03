@@ -1,0 +1,147 @@
+Starting pid: 30278@enlightair
+GC name:G1 Young Generation
+GC name:G1 Old Generation
+New string size: 512
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 27 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 10 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 13 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 15 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 27 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 27 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 56 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 32 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 37 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 72 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 114 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 108 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 64 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 26 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 27 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Humongous Allocation -> 13 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 14 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 12 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 15 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 12 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 18 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 13 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 16 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Humongous Allocation -> 13 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 22 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 16 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 18 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 18 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 18 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 15 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 17 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 17 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Humongous Allocation -> 11 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 23 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 11 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 13 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 10 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 7 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 7 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 7 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 7 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 7 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 15 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 3 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 452 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 8 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 17 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 358 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 14 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 338 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 13 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 315 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 9 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 318 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 7 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 352 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 7 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 331 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 5 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 321 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 4 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 333 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 3 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 327 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 3 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 339 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 3 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 335 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 2 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 322 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 366 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 324 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 310 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 2 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 321 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 2 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 328 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 304 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 3 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 309 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 318 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 3 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 307 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 2 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 311 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 3 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 315 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 319 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 321 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 2 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 329 ms
+java.lang.OutOfMemoryError: Java heap space
+Dumping heap to ./logs/dump ...
+Unable to create ./logs/dump: No such file or directory
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "main"
+Exception in thread "RMI TCP Connection(idle)" Exception in thread "RMI TCP Connection(idle)" Exception in thread "RMI Scheduler(0)" 
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "RMI TCP Connection(idle)"
+java.lang.OutOfMemoryError: Java heap space
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+java.lang.IllegalMonitorStateException
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.signal(AbstractQueuedSynchronizer.java:1981)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1192)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 314 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 305 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 309 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 305 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 0 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 304 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 302 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 0 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 312 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 304 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 0 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 305 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 304 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 1 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 310 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 306 ms
+G1 Young Generation, Action: end of minor GC, gcCause:G1 Evacuation Pause -> 0 ms
+G1 Old Generation, Action: end of major GC, gcCause:G1 Evacuation Pause -> 303 ms
