@@ -12,7 +12,8 @@
     <modules>
         <module>hw1_maven</module>
         <module>hw2_collections</module>
-        <module>hw3_gc_comparison</module> 
+        <module>hw3_gc_comparison</module>
+        <module>hw4_aop_asm</module>
     </modules>
 
     <properties>
